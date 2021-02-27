@@ -6,13 +6,13 @@
 
 プログラム(bookkeeping.py)の実行直後に現れる画面です。
 
-![input_form](png\input_form.png)
+![input_form](png/input_form.png)
 
 ## Result_page
 
 【確定】ボタンを押すとこの画面に切り替わります。
 
-![result_page](png\result_page.png)
+![result_page](png/result_page.png)
 
 今月のクレジットカード使用総額を表示することで、自分を戒めます。
 
@@ -20,7 +20,7 @@
 
 【更新した帳簿を表示】ボタンを押すと、自動作成された帳簿がGoogle Chromeで表示されるようになっています。
 
-![bookkeeping](png\bookkeeping.png)
+![bookkeeping](png/bookkeeping.png)
 
 ******の部分には年・月が入ります。
 
