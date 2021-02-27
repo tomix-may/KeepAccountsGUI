@@ -4,7 +4,7 @@
 
 ## input_form
 
-プログラム(bookkeeping.py)の実行直後に現れる画面です。
+プログラム(KeepAccounts.py)の実行直後に現れる画面です。
 
 ![input_form](png/input_form.png)
 
@@ -35,7 +35,7 @@
 また、新しい月の帳簿が作成されるとき、前回までの購入総額は自動でリセットされます。
 …リセットされるはずです。実はまだ検証していません…
 
-## プログラム(bookkeeping.py)の概説
+## プログラム(KeepAccounts.py)の概説
 
 ## DATEeditクラス
 
